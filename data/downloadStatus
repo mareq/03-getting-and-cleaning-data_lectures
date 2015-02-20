@@ -1,0 +1,6 @@
+fileUrlHttp <-
+"http://data.baltimorecity.gov/api/views/dz54-2aru/rows.csv?accessType=DOWNLOAD"
+fileUrlHttps <-
+"https://data.baltimorecity.gov/api/views/dz54-2aru/rows.csv?accessType=DOWNLOAD"
+dateDownloaded <-
+"Wed Feb 11 20:13:49 2015"
