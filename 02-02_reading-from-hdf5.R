@@ -2,7 +2,7 @@
 #biocLite("rhdf5")
 library(rhdf5)
 
-hdf5file = "02-02_example.h5"
+hdf5file = "./data/02-02_example.h5"
 
 h5createFile(hdf5file)
 h5createGroup(hdf5file, "foo")
